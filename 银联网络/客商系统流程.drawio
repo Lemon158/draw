@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T06:59:55.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="N9kWfg5fNIaHHuqANVOF" version="14.1.9" type="github"><diagram id="XVkyT9VHvMkA1Evhx19N" name="Page-1">7Vpbc5s4FP41ekwGBBLiEWynuzvpbGezO932jRgZ2MGWB8uxnV+/Ekg2MjihiWtw206mIx3dQOc737lg4Izm2w9FtEw/spjmAFrxFjhjAKHtQgjknxXvKomHlSApslhNOggesmeqhJaSrrOYroyJnLGcZ0tTOGWLBZ1yQxYVBduY02YsN09dRgltCB6mUd6Ufs5inlZSAr2D/DeaJak+2cZ+NTKP9GT1Jqs0itmmJnImwBkVjPGqNd+OaC4vT99Lte7uxOj+wQq64F0WLO9vkq/xP7uvxPpzR8I/Zou/nm+Ieja+0y9MY/H+qssKnrKELaJ8cpCGBVsvYip3tUTvMOeesaUQ2kL4H+V8p5QZrTkTopTPczUqHrjY/SvX3yLd/aK2KzvjrdHbqV7zjdUlrNi6mNIXXlMjJyoSyl+Yp7Ap76B2gLrPD5TNqXgeMaGgecSzJxMjkYJasp930IZoKIV8g3JstfFTlK/VUWCCQDABQdnwESAYTFwQEkBCKSF3ILgrJSEIEJhg4I8A8ctVLvADNTkIassxIASEXisQ7qNHYc+G8qI8SxaiPRVKoIUQPNGCZ8JgAjUwz+K4wgldZc/RY7mfVN+SZQte3hEKARq3KvQlkMqD6Ba0WL06xDAsQ19q1Y116yjz7KxBtdkn+fC1KWw2WwkoHat4f+Y7tP7LJs153rCMsotNQpyLVwofC9FKZGu0XnHxAEVDtabiNmnG6cMyKi9uIzyqqaSTl90wjZMm4LjKHSl/DC3V3xy8m61dVlrzbNj6Thfq/xxwhx3h7gwL7VYr3I9cR4vnQSAUnscCE1/+7wc1F+SBwANkrHxRNUQCENitQBiGC/LP6YIQ9A0b1Dofrk+CXVDQIL2PtJim0YL3Tno2NknPcfomPRv2wXpvZy+nI3uhYbEX7s5eEsBhCycJugptyWpy4UTE2b+PB8xTGlfvJyrrFiLPNszGHjpNOa3qbjoigkq9C12Pge9IFQs5cTt4pIszl2Uyl+v3zlxu85KvispQRyobWNqBWrBdZf5WLatv0lcT/0RmK6FVDo0lGcrQTBBgWSYIA+C7bTsLqnRBcBX1gj1EzxGtQYw9M3gYOgu2IQVJraoAvaZY2cDAH5dIeRN2+iZIYioHt/Gjiy/Jj8510SE+N80d4f1ECI41oektKj5Wq85vFG2R4OuxXjOnKSeTMn7cM+KdNBM/+HtsyX/vDBo0X+Z0xs9jItAzrx4R1HMM4b2RoV71QZdmH+Qfobr38Ay2V1G+dzltm/FaNU30vtRGDrU02TlD5djrGMLZ/qBiuH4i5Xqp04f1YqeIbixxly9XPMveJ1pk4g5k/HYp3WmrGYju7HbOOv4WNziGwtbQSl+wGTT+kAV/TT5XlmhC/bXVBLosmTgS38QuE8RmynhFH5Q1BM+SICLiGhami+XDTRA1Ml8p5/fMXO5x2Nr7l0qIf/zY6vxutz0fxOhE5HyhfBC2+fMOFZABk5pOcc9Bati1zcKK/t3DcFlNI/ebU/yeec6zLsdzonv4wWF18YefbTqT/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-14T07:01:17.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JFJY0VwOH7fekMKv21gr" version="14.1.9" type="github">
+  <diagram id="XVkyT9VHvMkA1Evhx19N" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-1" target="pL-gZdUyZ80Oy8BJfnRz-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-11" value="客商下可以有多个商户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pL-gZdUyZ80Oy8BJfnRz-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.39" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-1" target="pL-gZdUyZ80Oy8BJfnRz-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-1" value="客商&lt;br&gt;Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-2" target="pL-gZdUyZ80Oy8BJfnRz-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-10" value="商户可以开通多种业务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pL-gZdUyZ80Oy8BJfnRz-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.3529" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-2" value="商户&lt;br&gt;Merchant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-3" target="pL-gZdUyZ80Oy8BJfnRz-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-16" value="商户号+业务类型ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pL-gZdUyZ80Oy8BJfnRz-12" vertex="1" connectable="0">
+          <mxGeometry x="0.2571" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-3" value="开通具体的业务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-5" target="pL-gZdUyZ80Oy8BJfnRz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-15" value="一个业务开通记录对应一个账户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pL-gZdUyZ80Oy8BJfnRz-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.2667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-5" value="唯一一条业务开通记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="87" y="690" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-6" value="业务类型&lt;br&gt;分账：TD000001" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="270" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-7" value="唯一一条账户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-17" target="pL-gZdUyZ80Oy8BJfnRz-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-17" target="pL-gZdUyZ80Oy8BJfnRz-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-17" value="客商账户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-19" target="pL-gZdUyZ80Oy8BJfnRz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-28" value="关联对应商户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pL-gZdUyZ80Oy8BJfnRz-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.584" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-19" value="商户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pL-gZdUyZ80Oy8BJfnRz-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-27" value="业务开通" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pL-gZdUyZ80Oy8BJfnRz-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.6417" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pL-gZdUyZ80Oy8BJfnRz-20" value="业务类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
